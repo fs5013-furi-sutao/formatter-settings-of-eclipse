@@ -17,4 +17,4 @@
 1. Eclipseのプロジェクトからプロパティを開く
 2. 「Java コード・スタイル」-「フォーマッター」を選択
 
-![Eclipse プロパティウィンドウのフォーマッター](./formatter-of-property-window.jfif)
+![Eclipse プロパティウィンドウのフォーマッター](./images/formatter-of-property-window.jfif)
