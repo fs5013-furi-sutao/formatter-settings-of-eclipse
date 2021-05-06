@@ -12,9 +12,18 @@
 
 そんなつらくくるしい時ために、このフォーマッター設定をコーディング規約に合わせて修正し、チームにばら撒いて使っていくためのものです。
 
-##使い方は？
+## 使い方は？
 
 1. Eclipseのプロジェクトからプロパティを開く
 2. 「Java コード・スタイル」-「フォーマッター」を選択
 
-![Eclipse プロパティウィンドウのフォーマッター](./images/formatter-of-property-window.jfif)
+![Eclipse プロパティウィンドウのフォーマッター](./images/formatter-of-property-window.jpg)
+
+3. 「インポート」ボタンを押して、フォーマッター設定のXMLファイルを読み込む
+
+参考： 以下は、Java コード規約として最も有名な GoogleStyle の設定ファイル  
+https://raw.githubusercontent.com/google/styleguide/gh-pages/eclipse-java-google-style.xml
+
+4. インポートした XML ファイルをプルダウンから選択して、「編集ボタン」を押すと細かい設定ができる
+
+![Eclipse でフォーマッターファイルを編集する](./images/editing-formatter-file.jpg)
