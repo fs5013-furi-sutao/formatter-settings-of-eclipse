@@ -27,3 +27,5 @@ https://raw.githubusercontent.com/google/styleguide/gh-pages/eclipse-java-google
 4. インポートした XML ファイルをプルダウンから選択して、「編集ボタン」を押すと細かい設定ができる
 
 ![Eclipse でフォーマッターファイルを編集する](./images/editing-formatter-file.jpg)
+
+5. あとはプロジェクトやjavaソースを右クリックして「ソース」-「フォーマット」を選択するときれいに整形される
